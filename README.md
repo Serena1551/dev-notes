@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Troubleshooting 400 Bad Requests for Structured Health Check Logs](posts/troubleshooting-400-bad-requests-for-structured-health-check-logs.md)
 - [Simplest Failure Alert Stack for Small SaaS Errors, Logs, Metrics, and Slack](posts/simplest-failure-alert-stack-for-small-saas-errors-logs-metrics-and-slac.md)
 - [SMS OTP vs Email OTP for US and EU SaaS Login: Security, Delivery, and Fallbacks](posts/sms-otp-vs-email-otp-for-us-and-eu-saas-login-security-delivery-and-fall.md)
 - [Next.js and Node.js Cron Job Heartbeat Monitoring for Missed Runs](posts/next-js-and-node-js-cron-job-heartbeat-monitoring-for-missed-runs.md)
